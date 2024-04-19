@@ -28,3 +28,5 @@ For the next question, I asked which habitat has the highest amount of edible mu
 For the first question, since there is very little similarity in the odor values between the edible and poisonous mushrooms, this attribute can be considered a strong predictor of the edibility of a mushroom. However, risk is important with this topic; no one should assume a mushroom is safe to eat based on the scent (or lack thereof) alone.
 
 On the other hand, the habitat that the mushroom is found in does not have much of a relationship with the edibility of the mushroom. In all habitats, there was a significant amount of both edible and poisonous mushrooms. Anyone foraging would need to closely inspect the mushrooms to check if they're safe, regardless of where they were found.
+
+To summarize, this data is helpful because it's important to identify which attributes have a stronger relationship with the edibility of the mushrooms so that you or a machine learning model can make more accurate predictions.
