@@ -29,4 +29,4 @@ For the first question, since there is very little similarity in the odor values
 
 On the other hand, the habitat that the mushroom is found in does not have much of a relationship with the edibility of the mushroom. In all habitats, there was a significant amount of both edible and poisonous mushrooms. Anyone foraging would need to closely inspect the mushrooms to check if they're safe, regardless of where they were found.
 
-To summarize, this data is helpful because it's important to identify which attributes have a stronger relationship with the edibility of the mushrooms so that you or a machine learning model can make more accurate predictions.
+To summarize, this data is helpful because by identifying which attributes have a stronger relationship with the edibility of the mushrooms, we can be more accurate when predicting the edibility of a mushroom, or classifying a mushroom as edible or poisonous using a machine learning model.
