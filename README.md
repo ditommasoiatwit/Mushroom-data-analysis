@@ -5,9 +5,9 @@
 The objective of this project is to practice data analysis and possibly learn about machine learning. The reason I chose the dataset about mushrooms for this project was because I was able to ask specific questions about the dataset, and I was curious to find patterns having to do with the characteristics of the mushrooms. In particular, I was interested to find which features have a connection with whether or not a mushroom is poisonous. 
 
 I had one hypothesis which is that I think poisonous mushrooms will be more likely to have a strong and/or unpleasant scent, and this can be tested since odor is one of the attributes in the dataset. The 3 questions I asked about the data are listed below:
-Are there certain odors that are more common with edible or poisonous mushrooms? 
-Which type of habitat had the most edible mushrooms? 
-Are there mushrooms that have similar or the same features, and among these are there some that are edible while others aren’t? In other words, are there poisonous mushrooms that can be mistaken for edible ones based on the data?
+1. Are there certain odors that are more common with edible or poisonous mushrooms?
+2. Which type of habitat had the most edible mushrooms? 
+3. Are there mushrooms that have similar or the same features, and among these are there some that are edible while others aren’t? In other words, are there poisonous mushrooms that can be mistaken for edible ones based on the data?
 
 ## Selection of Data
 
